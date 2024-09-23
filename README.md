@@ -18,10 +18,10 @@ LSTM_GRU_PennTreebank/
 │
 ├── LSTM_GRU_PennTreebank.ipynb        
 ├── README.md                           
-├── LSTM_dropout.pth        
-├── best_model_LSTM_no_dropout.pth     
-├── best_model_GRU_dropout.pth          
-├── best_model_GRU_no_dropout.pth    
+├── LSTM_dropout_0.pth        
+├── LSTM_dropout_dot5.pth     
+├── GRU_dropout_0.pth          
+├── GRU_dropout_dot5.pth    
 ├── .git/                             
 ├── data/                            
 │   ├── ptb.train.txt
